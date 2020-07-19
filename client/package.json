@@ -10,7 +10,7 @@
     "config": "^3.2.4",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.12.0",
     "react-datepicker": "^2.10.1",
     "react-dom": "^16.12.0",
